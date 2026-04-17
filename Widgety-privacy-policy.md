@@ -1,6 +1,6 @@
 # Privacy Policy for Widgety Desktop Widgets
 
-**Last Updated: April 6, 2026**
+**Last Updated: April 17, 2026**
 
 ## Your Privacy Matters
 
@@ -11,7 +11,7 @@
 Widgety stores the following **locally on your Mac only**:
 
 - **Widget Settings**: Your widget positions and preferences (stored in UserDefaults)
-- **Folder Paths**: Folders you choose to display in Folder Widgets
+- **Fun Widgets Data**: Interactive content and settings for your fun widgets
 - **Notes**: Text content you enter in Notes Widgets
 - **System Stats**: Real-time CPU, memory, and disk usage (not stored, only displayed)
 - **Camera Feed**: Live video from Mirror Widget (not stored, only displayed)
@@ -23,7 +23,7 @@ Widgety requests permissions **only when needed**:
 
 - **Camera**: Only for Mirror Widget (optional)
 - **Microphone**: Only for Shazam Widget (optional)
-- **File Access**: Only for folders you manually select (optional)
+- **File Access**: Only for files you manually select (optional)
 
 All permissions are optional. You can use other widgets without granting these.
 
